@@ -1,0 +1,13 @@
+{
+    "auth": {
+        "isAuthenticated": true,
+        "user": {
+            "id": "5e54bc2ca266f43f4f546b1a",
+            "name": "Prashanth P Wagle",
+            "iat": 1582611505,
+            "exp": 1614168431
+        },
+        "loading": false
+    },
+    "errors": {//All the errors pertaining to invalid details}
+}
